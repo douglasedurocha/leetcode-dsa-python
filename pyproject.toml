@@ -1,0 +1,7 @@
+[project]
+name = "leetcode-dsa-python"
+version = "0.1.0"
+description = "A curated set of LeetCode and DSA solutions written in Python, focused on problem-solving and clean code."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
