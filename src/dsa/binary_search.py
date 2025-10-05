@@ -1,7 +1,7 @@
 from typing import List
 
 # Consider the arr is sorted
-def binary_search(arr: List, target: int):
+def binary_search(arr: List[int], target: int) -> int:
     lo, hi = 0, len(arr)
     
     while (lo < hi):
