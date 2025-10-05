@@ -1,1 +1,22 @@
-venv
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+.uv/
+
+# Test and coverage
+.coverage
+htmlcov/
+.pytest_cache/
+.benchmarks/
+
+# IDEs / Editors
+.vscode/
+.idea/
+
+# OS-specific
+.DS_Store
+Thumbs.db
