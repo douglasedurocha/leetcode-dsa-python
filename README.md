@@ -1,9 +1,9 @@
 <h1 align="center">leetcode-dsa-python</h1>
 <p align="center">
-    <img src="https://img.shields.io/badge/python-3.13-blue" alt="Python version">
-    <a href="https://codecov.io/gh/douglasedurocha/leetcode-dsa-python">
+     <a href="https://codecov.io/gh/douglasedurocha/leetcode-dsa-python">
         <img src="https://codecov.io/gh/douglasedurocha/leetcode-dsa-python/branch/main/graph/badge.svg" alt="codecov">
     </a>
+    <img src="https://img.shields.io/badge/python-3.13-blue" alt="Python version">
     <img src="https://img.shields.io/github/license/douglasedurocha/leetcode-dsa-python" alt="License">
 </p>
 <p align="center">
