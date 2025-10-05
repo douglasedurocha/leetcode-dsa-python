@@ -14,6 +14,8 @@ from src.dsa.binary_search import binary_search
 )
 def test_binary_search(arr, target, expected):
     """
+    Tests the `binary_search` function with sorted arrays, covering a variety of scenarios
+    including normal cases, edge cases, duplicates, empty arrays, and no-match situations.
     """
     result = binary_search(arr, target)
     assert result == expected, f"Expected {expected} but got {result} for arr={arr} target={target}"
