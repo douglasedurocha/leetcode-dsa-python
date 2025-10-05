@@ -9,7 +9,10 @@ dependencies = [
     "pytest>=8.4.2",
 ]
 
+[tool.setuptools.packages.find]
+where = ["src"]
+
 [tool.pytest.ini_options]
 testpaths = ["tests"]
-addopts = "--cov=dsa --cov=leetcode --cov-report=xml"
+addopts = "--cov=src --cov-report=xml"
 python_files = ["test_*.py"]

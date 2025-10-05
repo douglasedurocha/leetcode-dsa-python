@@ -1,5 +1,5 @@
 import pytest
-from leetcode.two_sum import two_sum
+from src.leetcode.two_sum import two_sum
 
 @pytest.mark.parametrize(
     "nums,target,expected",

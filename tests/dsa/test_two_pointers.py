@@ -1,5 +1,5 @@
 import pytest
-from dsa.two_pointers import two_pointers
+from src.dsa.two_pointers import two_pointers
 
 @pytest.mark.parametrize(
     "arr,target,expected",
